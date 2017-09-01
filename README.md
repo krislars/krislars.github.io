@@ -1,3 +1,3 @@
 # krislars.github.io
 
-[extinction_slider.html](extinction_slider.html)
+[extinction_models.html](extinction_models.html)
