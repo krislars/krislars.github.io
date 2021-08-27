@@ -1,7 +1,7 @@
 # Kristen Larson
 ## krislars.github.io
 
-[https://krislars.github.io/Pleiades.html](https://krislars.github.io/Pleiades.html)
+[Pleiades.html](Pleiades.html)
 
 Public gists for students and others:
 [https://gist.github.com/krislars/public](https://gist.github.com/krislars/public)
