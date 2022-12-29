@@ -1,11 +1,11 @@
 # Kristen Larson
-## krislars.github.io
 
-[Pleiades.html](Pleiades.html)
+
+ASTRO 101 Labs:
+- [Pleiades HR Diagram](https://krislars.github.io/PleiadesHRlab/Pleiades.html)
+- [Spectral Types](https://krislars.github.io/SpectralTypeLab/speclab.html)
+
 
 Public gists for students and others:
 [https://gist.github.com/krislars/public](https://gist.github.com/krislars/public)
-
-
-See my AstroHackWeek2017 hack rendered at [http://htmlpreview.github.io/?https://github.com/krislars/extinction_slider_hack/blob/master/extinction_models.html](http://htmlpreview.github.io/?https://github.com/krislars/extinction_slider_hack/blob/master/extinction_models.html)
 
